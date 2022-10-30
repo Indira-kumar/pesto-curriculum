@@ -54,9 +54,9 @@ Also, **if you always remember that code is written to read (by humans)** and no
   - [Basic Vim](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
 - #### [Terminal and Commands](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#terminal-and-commands)
 
-- #### [Version Managers](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#version-managers)
+- #### [x] [Version Managers](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#version-managers)
 
-  - Node Version Manager
+  - [x] Node Version Manager
 
 - #### [Package Managers](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#package-managers)
 
